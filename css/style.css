@@ -43,7 +43,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 header {
-  background-image: url("header__image.jpg");
+  background-image: url("../images/header__image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -504,7 +504,7 @@ header {
 }
 
 .subscribe__section {
-  background-image: url("subscribe_img.jpg");
+  background-image: url("../images/subscribe_img.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -687,7 +687,7 @@ header {
 }
 
 .team__section {
-  background-image: url("team__image.jpg");
+  background-image: url("../images/team__image.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -784,7 +784,7 @@ header {
 }
 
 .contact__section {
-  background-image: url("contact__bg.png");
+  background-image: url("../images/contact__bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
