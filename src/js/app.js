@@ -1,5 +1,3 @@
-"use strict";
-
 function navSide() {
     const bars = document.getElementById("burger");
     const nav = document.getElementById("navside");

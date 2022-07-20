@@ -1,5 +1,3 @@
-"use strict";
-
 window.addEventListener("scroll", () => {
     const navChange = document.querySelector(".header__section");
     navChange.classList.toggle("change-active", window.scrollY > 100);
